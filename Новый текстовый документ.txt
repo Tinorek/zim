@@ -1,0 +1,1419 @@
+Medzi výhody hypervodičov oproti supravodičom nepatrí: 
+c) možnosť dosiahnutia hypervodivosti aj pôsobením tlaku
+
+Fermiho eneria pre kovy je
+b) energia najvyššej hladiny, na ktorej sa nachádza elektrón pri nulovej absolútnej teplote.
+
+Konduktivita kovov (merná elektrická vodivosť):
+b) s rastúcim obsahom nečistôt klesá
+
+Alkalické kovy sú
+a) chemicky najreaktívnejšie
+
+Pre vodiče platí
+a) pokles vodivosti s rastom teploty.
+
+Vzájomné pôsobenie medzi elektrónmi susedných atómov má za následok
+a) že ich energetické hladiny sa štiepia a vytvárajú energetické pásma.
+
+Vodiče sú materiály, u ktorých vodivosť sprostredkovaná
+c) pohybom elektrónov.
+
+Zohrievanie vodičov pri vysokých hodnotách prúdov je spôsobené v dôsledku toho, že:
+c) elektróny odovzdávajú časť svojej energie, čím sa zvyšujú tepelné kmity mriežky
+
+Na vzniku chemickej väzby sa podieľa energetické pásmo
+b) valenčné.
+
+Supravodivosť je
+a) rapídny pokles rezistivity niektorých kovov, zliatin a keramík pri podkritickej teplote
+
+Medzi diamagnetiká patrí
+a) zlato a striebro
+
+Merná elektrická vodivosť (konduktivita) charakterizuje schopnosť materiálu:
+c) viesť elektrický prúd
+
+Stav, kedy dochádza k prudkému poklesu rezistivity pri splnení určitých podmienok sa nazýva:
+a) supravodivosť
+
+Hladiny dovolených energetických pásiem sú oddelené:
+a) hladinami zakázaných energií.
+
+Klasická elektrónová teória kovov popisuje:
+b) elektrickú vodivosť kovov na základe existencie voľne pohyblivých elektrónov
+
+Supravodivý stav nastane, ak sú splnené 3 podmienky supravodivosti, pričom pre intenzitu
+magnetického poľa platí:
+a) intenzita magnetického poľa je nižšia ako kritická intenzita Hk
+
+Kritické magnetické pole HC je magnetické pole, po ktorého prekročení dochádza
+c) k strate supravodivých vlastností
+
+U hypervodičov dochádza pri znižovaní teploty a zvyšovaní čistoty materiálu k:
+b) poklesu rezistivity (merneho elektrického odporu)
+
+Ferity sa používajú
+c) pre jadrá vysokofrekvenčných cievok a transformátorov
+
+S rastom teploty pohyblivosť elektrónov v kovoch:
+c) klesá
+
+Vodiče sú materiály, u ktorých dochádza k prenosu elektrického prúdu, pričom
+b) nedochádza k žiadnym pozorovateľným chemickým zmenám
+
+S rastom tlaku sa šírka zakázaného pásma
+a) zužuje.
+
+U kovov pri nulovej absolútnej teplote je pravdepodobnosť obsadenia energetických hladín pre
+W>WF:
+b) P(W) = 0
+
+Valenčné pásmo alkalických kovov:
+a) je neúplne obsadené
+
+Podľa Mathiessenovho pravidla je možné rezistivitu kovov s malým množstvom prímesí vyjadriť ako:
+c) súčet rezistivity danej koncentráciou prímesí a rezistivity závislej na teplote
+
+Pomer kritického prúdu IC a prierezu S supravodiča sa nazýva
+c) kritická prúdová hustota
+
+Klasická elektrónová teória opisuje elektrickú vodivosť na základe
+b) existencie voľných pohyblivých elektrónov, ktoré sa pohybujú usmernene pri pôsobení
+vonkajšieho elektrického poľa.
+
+Rezistivita kovov (merný elektrický odpor):
+a) s rastúcim obsahom nečistôt rastie
+
+Šírka zakázaného pásma v pásmovom modeli tuhej látky
+b) určuje typ vodivosti materiálu
+
+Supravodivosť bola prvý krát pozorovaná v roku 1911 u
+c) ortuti
+
+Supravodič je látka, ktorá pri určitej teplote
+c) skokovo stráca elektrický odpor o niekoľko rádov
+
+Pri zrážkach elektrónov s iónmi mriežky
+a) elektróny odovzdávajú časť svojej energie, čím sa zvyšujú tepelné kmity mriežky.
+
+Šírka zakázaného pásma tuhej látky
+c) je závislá od štruktúry materiálu
+
+Celkové straty v magnetických materiáloch sa delia na
+a) hysterézne (magnetizačné) straty, straty vírivými prúdmi a zvyškové straty
+
+Teplota, pri ktorej prechádza materiál do supravodivého stavu, sa nazýva
+c) kritická teplota
+
+Ak je šírka zakázaného pásma materiálu ΔWz 1,5 eV – 2,5eV, hovoríme o:
+c) polovodičoch
+
+Vypudzovanie magnetického poľa z vnútra supravodiča sa nazýva
+a) Meissnerov jav
+
+Vodivostné pásmo
+a) predstavuje súbor energetických pásiem elektrónov uvoľnených z chemických väzieb
+
+U ktorých dvoch kovov sa prejavuje hypervodivosť:
+a) hliník, berýlium
+
+S rastúcim tlakom rezistivita kovov (merný elektrický odpor):
+b) klesá
+
+Medzi podmienky potrebné na vznik supravodivosti nepatrí:
+b) podmienka geometrických rozmerov supravodiča
+
+Magneticky tvrdé ferity sa používajú
+a) pri konštrukcii motorov s vysokou účinnosťou
+
+Magneticky mäkké kovy a zliatiny sa vyznačujú
+b) úzkou hysteréznou slučkou, veľkou hodnotou maximálnej magnetickej indukcie a malou
+koercitivitou
+
+Anizotropia magnetických vlastností znamená, že
+c) magnetovateľnosť je závislá na kryštalografickom smere
+
+Vonkajšie magnetické pole je príčinou dvoch základných dejov:
+a) pohybu doménových stien a natáčania vektorov magnetizácie domén
+
+Ferity sa používajú
+c) pre jadrá vysokofrekvenčných cievok a transformátorov
+
+Krivka prvotnej magnetizácie je
+a) charakteristika feromagnetika pri jeho stacionárnom magnetovaní z odmagnetovaného stavu (H =
+0, B = 0) až do nasýtenia
+
+Závislosti magnetickej indukcie B od intenzity magnetického poľa H sa nazývajú aj
+c) Magnetizačné krivky
+
+Hysterézna slučka feromagnetických materiálov predstavuje závislosť
+c) magnetickej indukcie - B od magnetickej intenzity - H
+
+Žiadne dve susedné domény v štruktúre feromagnetických materiálov sa nedotýkajú bezprostredne,
+ale sú oddelené
+c) Blochovou stenou
+
+Javom magnetická hysterézia sa označuje:
+b) zaostávanie zmien magnetizácie, resp. magnetickej indukcie za zmenami intenzity magnetického
+poľa
+
+Relatívna permeabilita feromagnetika je závislá od:
+c) intenzity magnetického poľa a teploty
+
+Dielektrické straty závisia
+c) od druhej mocniny napätia, od frekvencie, relatívnej permitivity a činiteľa dielektrických strát
+
+Elektrická vodivosť u kovov s rastom teploty
+a) klesá
+
+V nehomogénnych tuhých dipólových izolantoch sa okrem iného vyskytuje polarizácia
+b) migračná
+
+Ohrev dielektrika po jeho vložení do striedavého elektrického poľa je spôsobený:
+c) dielekrickými stratami
+
+Zakázané pásmo je:
+b) pásmo, v ktorom sa nemôžu elektróny vyskytovať
+
+Medzi feromagnetické materiály patria:
+c) železo, kobalt, nikel a ich zliatiny
+
+Migračná polarizácia je typická pre:
+c) viacvrstvové izolanty
+
+Závislosť konduktivity (elektrickej vodivosti) plynných izolantov od napätia je
+b) charakterizovaná troma rozdielnymi oblasťami
+
+Spontánna polarizácia je typická pre:
+c) feroelektriká
+
+Magnetické kompozity
+b) sú tvorené feromagnetickou alebo ferimagnetickou látkou s nosným médiom (roztoky prírodných
+alebo syntetických živíc)
+
+Šírka zakázaného pásma ( Wz) izolantov je
+c) > 3 eV
+
+Elektrická vodivosť izolantov je priamo úmerná
+a) počtu nosičov nábojov, náboju a pohyblivosti nábojov
+
+Feromagnetické látky sa po prekročení (Curieho) feromagnetickej teploty stávajú
+a) paramagnetikom
+
+Veľkosť dielektrických strát v nepolárnych kvapalných izolantoch závisí
+a) od stupňa čistoty izolačnej kvapaliny
+
+Charakteristická veľkosť relatívnej permitivity pre plynné dielektriká je:
+c) ~1
+
+Elektronegatívne plyny majú
+a) veľkú elektrickú pevnosť
+
+Intenzita magnetického poľa, ktorá je potrebná, aby po predchádzajúcej magnetizácii do nasýtenia
+poklesla magnetická indukcia na nulovú hodnotu, sa nazýva
+c) koercivita Hc
+
+Suscebtibilita a relatívna permeabilita sú v prípade feromagnetického materiálu
+c) vysoké, silne závisle od teploty a intenzity magnetického poľa
+
+Magnetický moment atómového jadra je
+c) veľmi malý v porovnaní s momentom elektrónov
+
+Z fyzikálneho hľadiska možno dielektrické straty rozdeliť na tri hlavné druhy:
+a) vodivostné, polarizačné, ionizačné
+
+Povrchová vodivosť tuhých izolantov je výraznejšia ak povrch izolantu je
+b) zmáčavý
+
+Vznik domén je spojený so snahou magnetickej látky
+a) znížiť vlastnú magnetickú energiu
+
+Makroskopickou mierou polarizovateľnosti je
+a) relatívna permitivita
+
+Medzi polarizáciou a elektrickým poľom vo foferoelektriku je
+c) nelineárne rastúca závislos
+
+Ktorá polarizácia sa vyskytuje pri frekvenciách viditeľného svetla a je dôležitá pre spektrálnu analýzu:
+c) rezonančná
+
+Ettignshausenov jav je
+a) vznik priečneho rozdielu teplôt vo vzorke polovodiča, ak ňou prechádza elektrický prúd a súčasne
+sa nachádza v magnetickom poli
+
+Medzi magneticky mäkké materiály patra
+c) technicky čisté železo, ocele
+
+Izolanty sú využívané najmä
+a) na izoláciu vodivých telies
+
+Vložením diamagnetického materiálu do magnetického poľa sa toto pole
+a) oslabuje
+
+Polárne kvapalné izolanty majú polarizáciu
+a) elektrónovú a dipólovú
+
+Polarizačná zložka dielektrických strát vzniká
+c) len vplyvom striedavého elektrického poľa v polárnych dielektrikách
+
+Medzi magneticky mäkké materiály patria
+a) oxidy MnO a NiO
+
+Spinový magnetický moment ms je vyvolaný
+a) rotáciou elektrónov okolo ich osí
+
+Medzi najväčšie výhody kremíka patrí
+c) schopnosť tvorby oxidu SiO2, ktorý umožňuje realizovať fotoloitografické postupy
+
+Medzi paramagnetiká patrí
+a) kyslík a platina
+
+Podmienkou vzniku lavínového javu je
+b) dostatočná hrúbka hradlovej vrstvy
+
+Hodnota magnetickej indukcie, ktorá zostane vo feromagnetiku po znížení intenzity magnetického
+poľa na nulu je
+b) remanentná indukcia Br
+
+Medzi polarizáciou dielektrika a intenzitou elektrického poľa
+a) je nepriamoúmerný vzťah
+
+Difúzia vedie k:
+b) vyrovnaniu koncentrácií a/alebo teplôt
+
+Bohrov magnetón je
+c) najmenšou kvantovou jednotkou magnetického momentu
+
+Dielektrické straty závisia od:
+a) teploty, napätia, frekvencie, permitivity a stratového činiteľa
+
+Ak Wk je väčšie ako Wp, na styku kov – polovodič N,
+b) vznikne PN prechod
+
+Remanencia feromagnetických materiálov Br je definovaná ako
+b) magnetická indukcia pri nulovej intenzite magnetického poľa po predchádzajúcej magnetizácii do
+nasýtenia
+
+Z VA charakteristiky plynných izolantov vyplýva, že v oblasti nasýteného prúdu je prúd
+a) nezávislý od napätia
+
+Podmienkou pre tunelový prieraz PN prechodu
+a) je dostatočne tenká hradlová vrstva
+
+V nepolárnych kvapalných izolantoch sa vyskytuje len elektrónová polarizácia, preto je veľkosť
+relatívnej permitivity spravidla
+a) ~ 2,5
+
+Medzi primárne magnetické vlastnosti patria
+b) nasýtená magnetická polarizácia Js a Curieho teplota Tc
+
+Straty v magnetických materiáloch sú sprevádzené
+c) oteplením materiálu
+
+Magneticky mäkké materiály majú
+c) Hc menšie ako 800 A/m a možno ich ľahko zmagnetizovať aj odmagnetizovať
+
+Rovnica elektrickej neutrality vo vlastnom polovodiči hovorí, že:
+a) koncentrácia dier je rovná koncentrácii voľných elektrónov
+
+U elektroluminiscenčného javu následkom pôsobenia elektrického poľa dochádza k
+c) vyžarovaniu EMG žiarenia
+
+V silných EP existuje
+a) samostatná elektrická vodivosť
+
+Pohyblivosť molekúl v polárnych kvapalinách
+a) súvisí s viskozitou a teplotou
+
+Dielektrické materiály sa používajú pre
+a) konštrukciu kondenzátorov
+
+Ak je PN priechod polarizovaný v závernom smere,
+c) šírka hradlovej vrstvy sa zväčšuje
+
+Podľa veľkosti stratového čísla sa
+b) posudzujú dielektrické straty izolantu
+
+Dielektrická susceptibilita je definovaná ako
+c) konštanta úmernosti medzi elektrickým poľom E a indukovanou dielektrickou hustotou polarizácie
+P
+
+Názov „diera“ v teórii polovodičov predstavuje
+b) priestor, v ktorom sa nachádzal elektrón, neobsadenú kovalentnú väzbu
+
+Elektrický odpor prechodu PN pri zapojení v závernom smere sa
+c) zväčší, obvodom prechádza veľmi malý zvyškový prúd
+
+V nepolárnych kvapalných izolantoch sa vyskytuje
+b) len elektrónová polarizácia
+
+Fotonapäťový (fotovoltický) jav je definovaný ako vznik
+c) elektrického napätia v dôsledku ožiarenia (osvetlenia)
+
+V slabých EP existuje
+a) nesamostatná elektrická vodivosť 
+
+Po vložení dielektrika alebo izolantu do elektrického poľa sa v tomto materiáli určitá časť energie
+premieňa na neužitočné teplo. Táto energia sa nazýva:
+c) dielektrické straty
+
+Waldenov zákon hovorí, že
+a) súčin elektrickej vodivosti a viskozity je približne konštantný
+
+Zatavenie dotovacieho materiálu na polovodičovej platničke je typické pre
+b) zliatinovú technológiu
+
+Hlavným parametrom dielektrických materiálov je
+b) relatívna permitivita
+
+V iónových kryštalických látkach sa vyskytuje polarizácia
+c) elektrónová a iónová pružná
+
+Ktorá z možností najlepšie charakterizuje plazmové naprašovanie
+a) kladné ióny, ktoré vzniknú tlejivým výbojom, bombardujú terčík a vyrážajú z neho atómy
+naprašovacieho materiálu
+
+Polarizácia ktorého druhu má najrýchlejší priebeh (najkratšiu dobu trvania):
+b) pružná
+
+Heteroepitaxia je
+c) rast vrstvy rozdielneho zloženia ako substrát
+
+Minoritnými nosičmi náboja v polovodiči typu P sú
+a) diery
+
+S rastúcou teplotou relatívna permitivita polárnych kvapalín:
+a) v určitom intervale rastie
+
+V prípade nepolárnych kvapalných izolantov vznikajú pri pôsobení elektrického poľa
+a) ióny disociáciou molekúl a nečistôt
+
+Príprava východzieho materiálu pre výrobu polovodičových čipov zahŕňa
+c) chemické a fyzikálne metódy čistenia
+
+Segregačný koeficient je daný
+b) pomerom koncentrácie prímesí v tuhej a kvapalnej fáze
+
+Aká je závislosť relatívnej permitivity od teploty u nepolárnych kvapalín?
+c) lineárne klesajúca
+
+Curieho - Weissov zákon hovorí, že relatívna permitivita feroelektrík s rastom teploty
+b) hyperbolicky klesá
+
+Schottkyho priechod vzniká spojením
+b) kovového a polovodičového materiálu
+
+Donory sú spravidla
+a) prvky mocenstvom nižším, ako mocenstvo základného polovodiča
+
+Remanentnú indukciu Br možno zrušiť
+b) opačne orientovaným magnetickým poľom s intenzitou rovnajúcou sa intenzite koercitívneho poľa
+Hc
+
+V slabom elektrickom poli dochádza u izolantov
+b) k vodivosti nesamostatnej
+
+Mesa technológia je tvorená kombináciou
+c) difúznej a zliatinovej metódy
+
+Jednotkou relatívnej permitivity je:
+b) bezrozmerná veličina
+
+Polarizácia ktorého druhu nastáva bez strát energie:
+b) pružná
+
+Podmienkou tunelového javu na PN prechode je
+b) dostatočne hrubá hradlová vrstva
+
+Pre polarizáciu ktorého druhu je charakteristický vznik indukovaného dipólového momentu na
+makroskopické vzdialenosti:
+b) medzivrstvová (migračná)
+
+V nepolárnych kvapalných izolantoch sa vyskytuje iba:
+c) elektrónová polarizácia
+
+Reálne izolanty
+c) obsahujú určité množstvo nosičov nábojov, preto majú merateľnú rezistivitu resp. konduktivitu
+
+Coulombov zákon hovorí, že veľkosť sily medzi dvoma bodovými nábojmi je
+c) priamo úmerná veľkosti súčinu nábojov a nepriamo úmerná druhej mocnine vzdialenosti medzi
+nimi
+
+V silnom elektrickom poli dochádza u izolantov
+b) k vodivosti samostatnej (ionizácia a uvoľnenie elektrónov)
+
+Teplota nasýtenia prímesových polovodičov je
+c) teplota, pri ktorej sa začínajú na vodivosti podieľať aj lokalizované elektróny a diery vlastného
+polovodiča
+
+S rastom teploty elektrická vodivosť kvapalných izolantov
+a) rastie, lebo rastie pohyblivosť a exponenciálne narastá koncentrácia
+
+Aká je závislosť relatívnej permitivity od frekvencie u nepolárnych kvapalín
+b) nezávisí od frekvencie
+
+Indukovaný dipólový moment je vysunutie ťažísk elektrických nábojov z rovnovážnych polôh
+vplyvom:
+b) elektrického poľa
+
+Elektrická pevnosť tuhých izolantov s rastúcou hrúbkou
+c) klesá
+
+Diódový jav sa nazýva
+c) jav závislosti elektrického odporu polovodiča s priechodom PN od polarity vonkajšieho zdroja
+napätia pripojeného k polovodiču
+
+Curieho - Weissov zákon charakterizuje
+c) teplotu fázového prechodu vo feroelektrikách
+
+S rastúcou teplotou relatívna permitivita nepolárnych kvapalín:
+a) lineárne klesá
+
+Ideálny izolant je látka, ktorá
+a) neobsahuje žiadne voľné nosiče náboja, a teda je dokonale nevodiv
+
+Paschenov zákon hovorí, že prierazné napätie plynných izolantov závisí
+a) od súčinu tlaku plynu a vzdialenosti medzi elektródam
+
+Polarizácia ktorého druhu má pomalý priebeh:
+a) relaxačná
+
+Dielektrické straty v nepolárnych izolantoch sú len
+a) vodivostné
+
+V jednosmernom elektrickom poli sú dielektrické straty zapríčinené predovšetkým
+a) elektrickou vodivosťou dielektrika
+
+Seebeckov jav je:
+c) vznik termoelektrického napätia v látke, pozdĺž ktorej existuje teplotný gradient
+
+Závislosť vektora polarizácie od intenzity elektrického poľa vo feroelektrikách je
+a) nelineárna
+
+Technológia MESA využíva v svojom procese
+a) epitaxiu z kvapalnej fázy
+
+Indukovaný dipólový moment častice závisí na
+a) polarizovateľnosti
+
+Relatívna permitivita
+c) vyjadruje schopnosť materiálu polarizovať sa
+
+Vyberte správne tvrdenie: intenzita elektrického poľa priechodu PN intenzita elektrického poľa
+prechodu PN intenzita elektrického poľa prechodu PN
+c) ak kladnú svorku zdroja pripojíme k polovodiču typu N a zápornú svorku k polovodiču typu P
+potom sa zmenší
+
+Unipolárne tranzistory pracujú na princípe ovplyvňovania
+a) iba majoritných nosičov náboja
+
+Ionizačná krivka je závislosť činiteľa dielektrických strát (tg delta)
+a) od napätia pre tuhý izolant obsahujúci dutinky
+
+Elektronegatívne plyny majú schopnosť zachytávať na svojich
+b) molekulách elektróny
+
+Hallov jav je využívaný na
+c) meranie intenzity magnetického poľa
+
+Vákuové naparovanie je vytváranie tenkých vrstiev odparovaním vyhrievaného materiálu
+b) vo vysokom vákuu
+
+Pri zapojení PN priechodu v závernom smere obvodom prúd
+c) neprechádza
+
+Ionizačná krivka je v technickej praxi využívaná na
+a) posúdenie kvality izolácie elektrických strojov
+
+Elektrická vodivosť u vlastných polovodičov s rastom teploty
+a) stúpa
+
+V technickej praxi sú využívané predovšetkým
+c) prímesové polovodiče
+
+Podstata diódového javu vyplýva z
+a) V-A charakteristiky PN priechodu
+
+Rozpustený epitaxant je privedený do stavu presýtenia roztoku a po kontakte so substrátom sa zráža
+vplyvom
+a) zníženia teploty
+
+Schottkyho priechod sa líši od p-n priechodu tým
+b) že je unipolárny
+
+Rekombinácia nosičov náboja v polovodičoch je:
+a) proces zániku voľných nosičov náboja
+
+Monokryštál kremíka sa vyrába napríklad
+b) ťahaním z kelímka
+
+Čo sú majoritné nosiče náboja v n-type polovodiča?
+b) elektróny
+
+Bipolárne tranzistory využívajú pre svoju činnosť
+b) majoritné a minoritné nosiče náboja
+
+Bipolárne tranzistory využívajú
+c) dva priechody PN
+
+Rekombinácia nosičov náboja v polovodičoch je
+a) sprevádzaná vyžiarením kvanta energie
+
+Seebeckov jav je možné vyjadriť ako
+b) vznik termoelektrického napätia v látke pozdĺž ktorej existuje teplotný gradient
+
+Aké hodnoty rezistivity vykazujú pri izbovej teplote extrémne čisté polovodiče?
+b) vysoké, nízku vodivosť
+
+Ohyb energetických hladín na Schottkyho prechode závisí
+b) od výstupných prác elektrónov
+
+Majoritnými nosičmi náboja v polovodičoch typu N sú
+b) elektróny
+
+Ktoré tvrdenie je správne:
+c) pohyblivosť elektrónov môže byť aj vyše rádovo väčšia ako pohyblivosť dier
+
+Elektrónový prúd v polovodiči tečie voči dierovému prúdu
+c) opačným smerom
+
+Ak je prechod PN zapojený v závernom smere,
+b) obvodom prechádza veľmi malý prúd tvorený iba menšinovými voľnými nosičmi náboja
+
+Polovodiče, v ktorých sa uvoľňujú elektróny ionizáciou donorov, sú nazývané
+a) polovodiče typu N 
+
+Účinnosť čistenia monokryštálu zónovou rafináciou sa zvyšuje
+a) počtom prechodov zóny
+
+V prípade, že sa minimum vodivostného pásma a maximum valenčného pásma nachádza pri rovnakej
+hybnosti elektrónu, budeme polovodič nazývať:
+a) priamy
+
+Seebeckov jav je používaný napríklad
+a) na priamu premenu tepelnej energie na elektrickú
+
+Pohybom dier v polovodiči vzniká takzvaný dierový prúd. Vodivosť spôsobená dierami sa nazýva
+c) dierová vodivosť
+
+Termoelektrické napätie pripadajúce na jednotkový rozdiel teploty sa nazýva
+b) Seebeckov koeficient
+
+Ktorá je pracovná oblasť polovodičov?
+b) oblasť úplnej ionizácie prímesí
+
+Polovodičové diódy využívajú
+c) jeden priechod PN
+
+V intrinzickom (vlastnom) polovodiči platí, že
+a) koncentrácia dier je rovná koncentrácii voľných elektrónov
+
+Nato, aby nosiče náboja vstrekované emitorovým prechodom do bázy rekombinovali skôr, než
+dosiahnu kolektorový prechod tranzistora, musí byť
+b) vrstva bázy dostatočne ten
+
+Ideálny vlastný (intrinzický) polovodič:
+b) neobsahuje žiadne poruchy kryštálovej mriežky
+
+Magnetorezistenčný (Gaussov) jav je
+a) závislosť rezisitivity polovodičov od indukcie MG poľa kolmého na vektor prúdovej hustoty
+
+U kremíkových monokryštálov sa kvôli vysokej reaktivite používa
+a) argónová alebo vákuová atmosféra
+
+Princíp Zónovej rafinácie spočíva
+b) v pohybe roztavenej zóny pozdĺž ingotu jedným smerom
+
+Vnútorný fotoelektrický jav možno definovať ako
+c) uvoľnenie elektrónov látky z valenčného do vodivostného pásma v dôsledku jej ožiarenia
+
+Klasickú zliatinovú (legovaciu) metódu je možné charakterizovať ako:
+a) zatavenie dotovacieho materiálu na polovodičovej platničke, čím vznikne PN priechod
+
+Príčinou usmerňujúceho javu na PN prechode sú
+b) minoritné nosiče náboja
+
+Difúzia vedie k
+b) vyrovnaniu koncentrácií a/alebo teplôt
+
+Ak je segregačný koeficient nečistoty v polovodiči menší ako 1, potom:
+a) väčšina prímesí ostáva v kvapalnej fáze
+
+Vonkajší fotoelektrický jav možno definovať ako
+c) výstup elektrónov z látky v dôsledku jej ožiarenia
+
+Fotoelektrický jav možno definovať ako
+b) uvoľňovanie nosičov náboja pohltením energetického kvanta dopadajúceho žiarenia
+
+Vákuové naparovanie je
+a) fyzikálna metóda depozície tenkých vrstiev
+
+Cieľom technológie výroby monokryštálov je dosiahnutie
+b) čo najväčších monokryštálov s maximálnou čistotou bez porúch s definovanou kryštalografickou
+orientáciou
+
+Poruchy kryštálovej mriežky polovodičových súčiastok dobu života minoritných nosičov náboja
+a) skracujú
+
+Podstata zosilnenia tranzistora spočíva v tom, že majoritné nosiče náboja, ktoré sú do bázy
+vstrekované malým emitorovým napätím,
+a) sa stávajú minoritnými nosičmi a pohybujú sa ku kolektoru prevážne difúziou
+
+Epitaxia je spôsob vytvárania monokryštalických tenkých vrstiev z
+a) plynnej alebo kvapalnej fázy na monokryštálových podložkách
+
+Hrúbku hradlovej vrstvy (ochudobnená oblasť) PN priechodu
+b) nemožno ovládať tepelným prúdom
+
+Pri výrobe monokryštálu vyťahovaním z taveniny:
+c) rotuje zárodok kryštálu proti smeru rotácie taveniny
+
+Difúzny prúd
+b) je vždy sprevádzaný ohmickým (driftovým) prúdom
+
+Epitaxia z plynnej fázy využíva transportné a iné chemické reakcie pri
+c) atmosférickom tlaku
+
+Ak Wk je menšie ako Wp, na styku kov – polovodič P, ohmický kontakt antihradlová vrstva
+a) antihradlová vrstva // vytvorí sa usmerňujúci kontakt by malo byť správne
+b) vznikne PN prechod
+
+Katódové naprašovanie je realizované
+c) v inertnej atmosfére pri vysokom tlaku vysokom napätí a vysokej energii častíc
+
+V okolí PN priechodu bez prítomnosti vonkajšieho elektrického poľa sa nachádza
+b) vrstva ochudobnená o voľné nosiče náboja
+
+Proces výroby monokryštálu Czochralského metódou prebieha v
+b) inertnej atmosfére alebo pod ochrannou taveninou vo vákuovej alebo tlakovej nádobe
+
+Výhodou iónovej implantácie je
+c) možnosť prenikania iónov cez vrstvu SiO2
+
+Objemové monokryštály sa po vyrobení členia na plátky, takzvané
+c) wafre
+
+Povrchová koncentrácia dopujúcich atómov zabudovaných pomocou difúznej technológie závisí na
+c) type, teplote a tlaku dopantov a na teplote substrátu
+
+Efektívna hmotnosť elektrónov a dier je:
+c) koeficient úmernosti medzi vonkajšou silou pôsobiacou na časticu a jej stredným zrýchlením
+
+Molekulárna epitaxia je
+b) ultravákuové vytváranie veľmi tenkých viaczložkových vrstiev naparovaním zväzkami atómov alebo
+molekúl
+
+Termická oxidácia je
+a) parazitný rast oxidu kremíka pri tvorbe polovodičových vrstiev
+
+Zenerov jav sa uskutočňuje
+a) tunelovaním elektrónov
+
+Výhodou epitaxie je
+a) možnosť plynulo meniť koncentráciu donorových alebo akceptorových prímesí
+
+Epitaxia je
+a) rast monokryštalickej polovodičovej vrstvy na monokryštalickej podložke
+
+Veličina, ktorá je definovaná ako rýchlosť elektrónov vztiahnutá k intenzite elektrického poľa sa
+nazýva:
+a) pohyblivosť elektrónov
+
+Supravodivosť je pokles rezistivity niektorých kovov a zliatin pri teplote:
+a) blízkej 0°C
+
+Nosičmi náboja v supravodivom stave sú
+c) Cooperove páry
+
+Na základe pásmovej štruktúry materiály rozlišujeme ako
+c) vodiče, polovodiče a izolanty
+
+Diamagnetické latky majú magnetickú susceptibilitu k
+b) (k < 0)
+
+Ak je šírka zakázaného pásma materiálu ΔWz > 3eV, hovoríme o:
+b) izolantoch
+
+Relatívna permeabilita µr paramagnetických materiálov je
+b) µr > 1
+
+Medzi hlavné materiálové charakteristiky magnetických materiálov patrí:
+a) magnetická susceptibilita, resp. relatívna permeabilita
+
+Hranicou bezpečnej vlhkosti pre elektroizolačné systémy, nad ktorou dochádza k prudkým zmenám
+vlastností izolantu, je
+c) 60% vlhkosť
+
+V prípade kvapalných izolantov existuje oblasť nesamostatnej vodivosti
+c) slabých elektrických poliach
+
+Magnetostrikcia je
+c) zmena geometrických rozmerov telesa z magnetického materiálu po jeho vložení do magnetického
+poľa
+
+Curieho teplota je teplota, ktorej prekročením sa magnetické materiály stávajú
+b) paramagnetickými
+
+Medzi paramagnetické materiály patria:
+b) hliník a platina
+
+Polarizačná zložka dielektrických strát existuje pri pôsobení
+c) striedavého napätia v polárnych dielektrikách
+
+Teplotnú závislosť u feromagnetík vyjadruje
+a) Curieho - Weissov zákon
+
+Veľkosť relatívnej permitivity závisí od
+c) charakteru polarizačných procesov, teploty, frekvencie
+
+Curieho teplota je teplota, pri ktorej
+c) sa magnetické materiály stávajú paramagnetickými
+
+Magnetizačná krivka pozostáva z
+c) krivky prvotnej magnetizácie a hysteréznej slučky
+
+Magneticky tvrdé materiály majú
+b) Hc väčšia ako 1 500 A/m a je ich ťažké zmagnetizovať
+
+Nosičmi náboja v prípade reálnych izolantov sú
+a) voľné ióny (kladné aj záporné) a voľné elektróny
+
+Polarizácia dielektrických materiálov je využívaná pre konštrukciu
+b) kondenzátorov
+
+Vložením paramagnetického materiálu do magnetického poľa sa toto pole
+a) zosilňuje
+
+V polárnych kvapalných izolantoch sa vyskytujú straty
+b) vodivostné a polarizačné
+
+Nenulová magnetizácia i bez prítomnosti vonkajšieho magnetického poľa sa nazýva
+c) spontánny magnetizmus
+
+Paramagnetické látky majú magnetickú susceptibilitu k:
+a) k > 0
+
+Polarizačné dielektrické straty sú zapríčinené:
+c) oneskorovaním pohybu viazaných elektrických nábojov za zmenami intenzity elektrického poľa
+
+Curieho zákon vyjadruje vplyv
+b) teploty na magnetizáciu paramagnetík
+
+Pre ktoré dve látky je typická magnetická susceptibilita k >> 0
+b) feromagnetické a ferimagnetické
+
+Ionizačná krivka sa používa na
+b) posúdenie kvality izolácie elektrických strojov
+
+Dielektrické straty izolantov predstavujú elektrickú energiu, ktorá:
+c) sa za jednotku času premení na iný druh energie
+
+Currieho teplota je teplota typická pre:
+a) feroelektrické a feromagnetické látky
+
+V slabých elektrických poliach sú u reálnych izolantov voľnými nosičmi nábojov spravidla
+b) voľné ióny, vznikajúce disociáciou, resp. aktiváciou častíc prímesí a nečistôt
+
+Polarizácia dielektrika z makroskopického hľadiska závisí na
+b) dipólovom momente a objeme dielektrika
+
+Straty v magnetických materiáloch vznikajú
+c) pri procese premagnetovania magnetických materiálov v striedavom poli
+
+V dipólovývh kvapalných izolantoch sa vyskytujú:
+a) vodivostné a polarizačné dielektrické straty
+
+Ktorej technológii odpovedá výroba feritov, kedy sa postupne namiešajú namleté práškové suroviny,
+ktoré sa lisujú a vypaľujú?
+b) technológiam výroby keramických materiálov
+
+Polarizácia ktorého druhu spočíva v posuve rovnakého množstva kladných a záporných pružne
+viazaných ťažísk nábojov opačnými smermi:
+b) pružná
+
+Medzi diamagnetické materiály patria:
+b) kremík, germánium, meď
+
+Ionizačné dielektrické straty vznikajú predovšetkým
+c) v plynových dutinkách izolantov
+
+PN priechod je možné vyrobiť napríklad
+a) epitaxiou
+
+Makroskopická polarizácia vyjadruje
+a) hustotu elektrických dipólov
+
+Clausius – Mossottiho rovnica platí pre:
+b) kvapalné a plynné izolanty
+
+Vzťah medzi izolantom a dielektrikom je nasledovný:
+c) každý izolant je súčasne dielektrikom, avšak nie každé dielektrikum je izolantom
+
+Dielektrické materiály sú využívané najmä pre
+b) realizáciu dielektrík kondenzátorov
+
+Pružná polarizácia predstavuje posunutie viazaného kladného náboja
+c) proti smeru elektrického poľa
+
+V nepolárnych tuhých izolantoch sa vyskytuje polarizácia
+a) elektrónová
+
+Pre feroelektriká je typická
+a) elektrónová pružná polarizácia
+
+V nepolárnych kvapalných izolantoch sa vyskytujú iba:
+c) vodivostné dielektrické straty
+
+V jednosmernom i striedavom EP sú straty zapríčinené predovšetkým
+b) elektrickou vodivosťou dielektrika
+
+Ak je uhol zmáčavosti menší ako 90 °, tuhý izolant má
+a) nezmáčavý povrch
+
+Vzácne plyny sú charakteristické tým, že sú
+c) chemicky inertné
+
+Minoritnými nosičmi náboja v polovodičoch typu N sú
+b) elektróny
+
+Elektrická pevnosť vzduchu s rastúcou koncentráciou vody
+a) klesá
+
+Hodnota prúdu ideálnej V-A charakteristiky PN priechodu v závernom smere závisí na
+a) koncentrácii minoritných nosičov náboja
+
+Kondenzátor je elektronická súčiastka, ktorá slúži na
+b) uchovávanie elektrickej energie
+
+PN priechod v závernom smere je charakteristický tým, že
+b) elektróny sa pohybujú z P do N a diery z N do P
+
+Diódový jav je
+b) usmerňujúci jav na PN priechode, keď je pripojené striedavé napätie
+
+Izolanty sú látky, ktorých hlavnou vlastnosťou je:
+a) schopnosť klásť veľký odpor elektrickému prúdu
+
+Pri Curieho teplote dochádza:
+a) k zániku doménovej štruktúry
+
+Vodivostné pásmo sa v pásmovom modeli tuhej látky nachádza
+c) nad zakázaným pásmom
+
+V striedavom EP sú straty zapríčinené okrem vodivosti aj
+a) polarizáciou - ionizacnou aj polarizacnou zlozkou
+
+PN priechod využívajú kapacitné diódy
+b) v priepustnom smere
+
+Hallov jav sa prejavuje
+c) vznikom Hallovho napätia na vodiči v smere kolmom na smer prúdu a smer magnetického poľa, do
+ktorého je vodič vložený
+
+Polárne tuhé dielektriká
+c) sú vhodné pre vysoké frekvencie
+
+PN priechod v priepustnom smere vznikne, ak pripojíme
+b) k polovodiču typu N záporný pól zdroja a k polovodiču typu P kladný pól zdroja
+
+Podľa Coulombovho zákona vyjadruje relatívna permitivita vplyv prostredia na veľkosť sily pôsobiacej
+medzi
+c) nábojmi
+
+Relaxačná polarizácia je:
+c) pomalého priebehu
+
+S rastom teploty u feroelektrík relatívna permitivita:
+c) najprv stúpa a po dosiahnutí Curieho teploty klesá
+
+Majoritnými nosičmi náboja v prímesovom polovodiči typu P sú
+a) diery
+
+Činiteľ dielektrických strát je daný:
+c) pomerom činnej a jalovej zložky prúdu
+
+Difúzia je opísaná
+a) Fickovymi zákonmi
+
+Spontánna polarizácia:
+b) je stratová
+
+PN priechod v závernom smere vznikne, ak zapojíme
+b) k polovodiču typu P záporný pól zdroja a k polovodiču typu N kladný pól zdroja
+
+Zenerove diódy sú využívané na
+a) stabilizáciu napätia
+
+Coehnovo pravidlo hovorí, že koloidné častice sa budú nabíjať
+c) kladne, ak ich permitivita je väčšia ako permitivita kvapalného izolantu
+
+Teplota vyčerpania prímesí polovodičov je:
+a) teplota, pri ktorej sa začínajú na vodivosti podieľať aj lokalizované elektróny a diery vlastného
+polovodiča
+
+Polovodiče, v ktorých voľné nosiče elektrického náboja vznikajú ionizáciou akceptorových prímesí, sú
+nazývané
+a) polovodiče typu P
+
+Činnosť Zenerovej diódy v závernom smere je podmienená
+b) dostatočne úzkou hradlovou vrstvou
+
+Vznik Hallovho napätia je zapríčinený
+b) nerovnomerným rozložením náboja vplyvom pôsobenia magnetického poľa
+
+Diódový jav vzniká za určitých podmienok na styku
+a) polovodiča s kovom
+
+Elektrónová polarizácia sa vyskytuje:
+c) u všetkých dielektrík
+
+Tranzistor pozostáva
+c) z 2 PN priechodov
+
+Pojmom „diera“ je označovaný
+c) neobsadený stav elektrónom v čiastočne zaplnenom valenčnom pásme polovodiča
+
+Aby tranzistor pracoval ako zosilňovač, musí byť emitorový priechod zapojený
+a) v priepustnom smere
+
+U prímesových polovodičov sa na prenose náboja podieľajú v závislosti na type polovodiča
+c) prevažne elektróny, resp. diery vlastného polovodiča
+
+Typickým znakom planárnej technológie je:
+a) vytvorenie prvkov a ich vývodov v jednej rovine
+
+Difúznu technológiu je možné charakterizovať ako:
+c) vysokoteplotnú aplikáciu atómov na selektovaný povrch substrátu v plynnom, kvapalnom alebo
+pevnom skupenstve
+
+Výhodou molekulárnej epitaxie je
+b) mimoriadne presné ovládanie hustoty a zloženia prúdu atómov, resp. molekúl
+
+Elektrónová polarizácia dielektrík je:
+a) pružná
+
+Dielektrické straty v polárnych izolantoch sú
+a) vodivostné a polarizačné
+
+Majoritnými nosičmi náboja v polovodiči typu P sú
+c) diery
+
+Ak Wk je väčšie ako Wp, na styku kov – polovodič P,
+a) ohmický kontakt
+
+Donor je prímes, ktorá
+b) odovzdáva elektrón
+
+U nepolárnych izolantov vlastný izolant
+a) môže disociovať na ióny v malej miere
+
+Polovodičové súčiastky, v ktorých dochádza k prúdovému zosilneniu sa nazývajú
+c) tranzistory
+
+Ak Wk je menšie ako Wp, na styku kov – polovodič N,
+b) ohmický kontakt
+
+Tranzistorový jav
+c) zosilňujúci jav v polovodičoch
+
+Peltierov jav je možné vyjadriť ako
+b) pohlcovanie alebo vyžarovanie tepla na prechode dvoch rozdielnych polovodičov alebo polovodiča
+a kovu pretekanom prúdom
+
+V priepustnom smere PN priechodu je orientácia priloženého napätia voči difúznemu napätiu
+a) protismerná
+
+Kontaktný potenciál vzniká:
+a) vodivým spojením dvoch rozličných kovov
+
+Produktom Czochralského metódy výroby monokryštálu je
+a) ingot
+
+Ak je PN priechod polarizovaný v priamom smere,
+a) šírka hradlovej vrstvy sa zmenšuje
+
+Pohyblivosť voľných nosičov náboja v polovodiči je definovaná ako:
+b) pomer rýchlosti a elektrickej intenzity
+
+Pri výrobe monokryštálu Czochralského metódou používame:
+c) inertné plyny alebo vákuum v komore s taveninou
+
+Dielektrické materiály sú používané pre:
+c) konštrukciu kondenzátorov
+
+Homoepitaxia je
+b) rast vrstvy rovnakého zloženia ako substrát
+
+Základnou črtou planárnej technológie je,
+b) že všetky kontakty sú na jednej rovine
+
+PN priechod je polarizovaný v závernom smere, ak pre minoritné nosiče náboja platí, že
+c) elektróny z polovodiča typu P smerujú do polovodiča typu N a zároveň diery z polovodiča typu N
+smerujú do polovodiča typu P
+
+Donorom je u kremíkových polovodičov prvok
+a) z 5. skupiny
+
+Ako sa zapájajú PN priehody bipolárneho tranzistora?
+b) jeden PN priechod sa zapája v smere priepustnom, druhý v smere závernom
+
+Kapacitu PN prechodu využívajú polovodičové prvky
+a) varikapy
+
+Podmienkou pre vznik tunelového prierazu je:
+a) podkritická šírka hradlovej vrstvy
+
+PN priechody sú tvorené napríklad:
+c) epitaxnou technológiou
+
+PN priechod je polarizovaný v priamom smere ak pre majoritné nosiče náboja platí :
+a) elektróny z polovodiča typu N smerujú do polovodiča typu P, a zároveň diery z polovodiča typu P
+smerujú do polovodiča typu N
+
+Metóda, pri ktorej je zárodok monokryštálu upevnený na ťahacom hriadeli, priložený k tavenine v
+kremennom tégliku, pomaly vyťahovaný a rotovaný proti smeru rotácie taveniny, sa nazýva:
+c) Czochralského metóda
+
+1. Aky je smer otacania pri spinovom kvantovom cisle?
+Okolo svojej osi.
+
+2. Ako je vyzarovana a pohlcovana energia pri Kvantovej teorii?
+Po kvantach.
+
+3. Co udava spinove cislo?
+Kvantovy smer rotacie elektronu okolo svojej osi.
+
+4. Kolko je bohrovych postulatov?
+Tri.
+
+5. Co je to dislokacia?
+Diskolacie su charakterizovane geometrickymi a energetickymi faktormi. Patri k ciarovym porucham
+krystalovej mriezky.
+
+6. Pohyb diskolacii sklzom umoznuje:
+plasticku deformaciu.
+
+7. Pohyb diskolacii splhom umoznuje:
+difuziu.
+
+8. Ake diskolacie rozlysujeme?
+Hranove a skrutkove.
+
+9. Ake bodove poruchy pozname?
+Vakancie, intersticie a substitucie.
+
+10. Smekticka struktura:
+Jednotlive molekuly su zoradene tak, ze maju rovnobezne osi a v rovinach pravidelne (nenasla zatial
+vyuzitie).
+
+11. Nematicka struktura:
+Molekuly maju rovnobezne osi. Ma elektroopticke vlastnosti - zmenou el. pola dosiahneme zmenu
+optickych vlastnosti. Ma siroke uplatnenie.
+
+12. Ako sa vola priestor, ktory oddeluje dve susedne domeny?
+Blochova stena
+
+13. Kde sa uskutoscnuje kovalentna vazba?
+Je typicka pre polovodice. Je tvorena dvojicami elektronov spolocnymi pre oba atomy. Moze byt
+polarna a nepolarna.
+
+14. Kde sa uskutocnuje ionova vazba?
+Medzi kladne a zaporne nabitymi ionmi. Je typicka pre izolanty.
+
+15. Kde sa uskutocnuje kovova vazba?
+Je vazba medzi kationmi a elektronmi prvkov s malym poctom valencnych elektronov, ktore su slabo
+viazane k jadru. Podmienkou je tesne usporiadanie atomov v mriezke. Je typicka pre kovy.
+
+16. Ktora z vazieb je smerova?
+Kovalentna vazba.
+
+17. Aku hystereznu slucku maju magneticky makke materialy?
+Maju uzku hystereznu slucku, malu koercivitu, vysoku hodnotu permeability, vysoku indukciu
+nasytenia a male merne straty.
+
+18. Aku hystereznu slucku maju magneticky tvrde materialy?
+Maju siroku hystereznu slucku a malo strmy priebeh krivky prvotného magnetovania, velku koercivitu,
+velku remanenciu a velky maximalny sucin (BH)m.
+
+19. Co su to donory?
+Donor je primes, ktora odovzdava volny elektron.
+
+20. Co su to akceptory?
+Akceptor je primes, ktora prijima volny elektron.
+
+21. Co je to substitucia?
+Nahradenie jedneho atomu druhym.
+
+22. Co je to Seebeckov jav (termoelektricky jav)?
+Je priamou premenou rozdielu teplot na elektricke napatie.
+
+23. PN priechod:
+Priestorova zmena polovodica - oblast polovodica, v ktorom sa meni el. vodivost z P na N - rozhranie
+deliace dierovu a el. vodivost v tom istom vodici.
+
+24. Pravdepodobnost obsadenia hladin pri absolutnej nule (Fermi – Diracova statistika):
+Fermi - Diracova statistika hovori o pravdepodobnosti obsadenia energet. hladin elektronmi. Az po
+fermiho hladinu pri absolutnej 0. Pri vyssej teplote elektrony obsadzuju aj hladiny nad fermiho
+hladinou. V izolantoch a polovodicoch je fermiho energia medzi valencnymi vrstvami (v strede sirky
+zakazaneho pasma). Pri kovoch predstavuje fermiho energia maximalnu energiu elektronov pri teplote
+rovnej absolutnej nuly.
+
+25. Od coho zavisi permitivita?
+Od charakteru polarizacnych procesov: teploty, frekvencie. V niektorych pripadoch aj od vplyvu
+elektrickeho pola.
+
+26. Konduktivita (merna elektricka vodivost):
+Popisuje schopnost latky viest elektricky prud. Latka, ktora je dobrym vodicom ma vysoku hodnotu
+konduktivity. Konduktivita zavisi od teploty, hlavne u polovodicov je tato zavislost velmi vyznamna.
+
+27. Co je to difuzia?
+Je proces, pri ktorom castice (ako molekuly alebo iony) plynov, kvapalin alebo tuhych latok prenikaju
+v nejakom prostredi ako vysledok ich spontanneho pohybu sposobeneho termalnou alebo
+koncentracnou nerovnovahou. Difuzia vedie k vyrovnavaniu koncentracii alebo teplot. Difuzia ma velky
+vyznam pre technologicke procesy, napr. pre rozpustanie, krystalizaciu, susenie, adsorpciu a pod.
+Difuzia sa riadi Fickovymi zakonmi. Difuzia vyvolava elektricky prud, tzv. difuzny prud. Difuzny
+prud je usmerneny prud volnych nosicov v dosledku procesu difuzie.
+
+28. Dielektricke straty:
+Po vlozeni dielektrika do elektrickeho pola sa urcita cast energie premiena na teplo. S vynimkou el.
+ohrevu su tieto straty neziaduce. V jednosmernom poli su dielektricke straty sposobene vodivostou
+materialu.
+
+29. Ake dielektricke straty pozname?
+- vodivostne
+- polarizacne
+- ionizacne
+
+30. Stratove cislo:
+Je bezrozmerne cislo charakterizujuce kvalitu izoalantu.
+
+31. Hypervodice:
+Niektore velmi ciste kovy s min. poctom mriezkovych poruch dokazu ziskat velku vodivost v oblasti
+kryogennych teplot. El. vodivost rastie s rastom cistoty a poklesom teploty, cim rezistivita klesa.
+
+32. Co su majoritne nosice naboja polovodica typu N?
+Elektrony.
+
+33. Co su minoritne nosice naboja polovodica typu N?
+Diery.
+
+34. Co su majoritne nosice naboja polovodica typu P?
+Diery.
+
+35. Co su minoritne nosice naboja polovodica typu P?
+Elektrony.
+
+36. Co je to supravodivost?
+Je to pokles rezistivity niektorych kovov a zliatin pri teplote blizkej absolutnej nule.
+
+37. Ake faktory ovplyvnuju vodivost?
+Pohyblivost, relaxacny cas, teplota, rezistivita, tlak, primesy, usporiadanost, deformacia za studena,
+supravodivost, ziarenie.
+
+38. Co je to foton?
+Castica alebo kvantum svetla.
+
+39. Co je to elektron?
+Elementarna castica, ktora obieha okolo jadra po kvantovych drahach a ma zaporny naboj.
+
+40. Co je to diera?
+Diera je neobsadeny stav elektronov v ciastocne nezaplnenom valencnom pasme polovodica. Diera je
+teda fiktivna elementarna častica, ktora je nosičom kladneho elementarneho naboja (e = - 1,602 . 10-
+19 C) a služi pre opis vodivosti v polovodiči.
+
+41. Katodove naprasovanie:
+je sposobom nanasania tenkych vrstiev impulznym odprasovanim na substrat.
+
+42. Primesove atomy su akceptormi u polovodicov typu:
+P.
+
+43. Ktore cislo urcuje pocet valencnych elektronov?
+Cislo skupiny, v ktorej sa prvok nachadza.
+
+44. V akom smere sa toci zarodok monokrystalu v tavenine (czochralskeho metoda)?
+Proti smeru rotacie taveniny.
+
+45. Ako sa vyrabaju PN priechody?
+Zliatinova (legovacia), difuzna, Mesa, Planarna, Ionova implantacia
+
+46. Aky je to realny izolant?
+Material, v ktorom sa vyskytuje male mnozstvo "nosicov" elektrickeho naboja. Ak vlozime takuto latku
+do el. pola, vedie maly prud.
+
+47. Ake castice vedu prud vodicom?
+Elektrony.
+
+48. Aka je fermiho energia u kovov?
+Maximalna pri teplote rovnej absolutnej nule.
+
+49. Co patri medzi makke magnety?
+Technicky ciste zelezo, elektrotechnicke plechy, zliatiny s velkou permeabilitou.
+
+50. Co patri medzi magneticky tvrde materialy?
+Hc je vacsia ako 1 500 Am-1. Patria tu tvarne ocele a zliatiny, liate magnety, praskove kovove
+materialy, kyslicnikove materialy (ferity).
+
+51. Vymenujte 4 kvantove cisla:
+Hlavne kvantove cislo n, vedlajsie kvantove cislo l, magneticke kvantove cislo m, spinove kvantove
+cislo s.
+
+52. Vymenuj 3 zakladne magneticke materialy:
+Technicky ciste zelezo, elektrotechnicke plechy, zliatiny s velkou permeabilitou, tvarne ocele a zliatiny,
+magneticky makke ferity.
+
+53. Polarizacia:
+Je proces, pri ktorom dochadza k naruseniu symetrie el. nabojov. Nasledkom toho sa vytvaraju el.
+dipoly a kazdy ma svoj dipolovy moment.
+
+54. Druhy polarizacie:
+Pruzna, elektronova, ionova.
+
+55. Elementarne polovodice:
+Su zo IV. skupiny periodickej tabulky prvkov: kremik (Si), germanium (Ge), uhlik (C), selen (Se).
+
+56. Ak je sirka zakazaneho pasma vacsia ako 3eV, o aky typ vodica ide?
+Izolant.
+
+57. Pri ktorej z metod vyroby PN priechodov je potrebna energeticka dotacia a povrch
+substratu sa vystavuje vysokej koncentracii dopacnych atomov?
+Difuzna metoda.
+
+58. Ake su to kompozitne polovodice?
+Vytvaraju sa ako tenke epitaxne vrstvy na substratoch. Hlavne pouzitie je v optoelektronike (Si, GaAs,
+GaP, InP).
+
+59. Co sa deje s vodivostou vo vodici ked teplota stupa?
+Klesa vodivost.
+
+60. Co sa deje v pripade, ak je PN priechod polarizovany v priepustnom smere?
+Pri urcitej velkosti teploty hradlova vrstva zanikne a PN priechodom zacnu prechadzat majoritne
+nosice prudu.
+
+61. Co sa deje, ak je PN priechod v zavernom smere?
+Diery z polovodica N smeruju do P a elektrony z P do N. Hradlova vrstva sa zvacsuje, az kym vznikne
+nasyteny prud. Majoritne castice su vytlacane zo stredu PN priechodu na okraj a vznika velky odpor.
+Minoritne castice zapricinuju maly zaverny prud.
+
+62. Co je to Molekularna epitaxia?
+Ultravakuove vytvaranie tenkych viaczlozkovych vrstiev naparovanim atomov. Mimoriadne presne
+ovladanie hustoty a zlozenia zvazkov
+
+63. Ako sa meni izolacna vlastnost izolantu, ak sa zvacsuje jeho prierez?
+Izolacna vlastnost sa zvacsuje.
+
+64. Co splna podmienku k >>0?
+Feromagneticke/Ferimagneticke materialy.
+
+65. Co splna podmienku k<0?
+Diamagneticke materialy.
+
+66. Co splna podmienku k>0?
+Paramagneticke materialy.
+
+67. Zavislost vodivosti kovov od teploty:
+S rastom teploty rastie odpor materialu. Nad Debeyovou teplotou (100K) rastie rezistivita linearne s
+teplotou. Pomer elektrickej a tepelnej vodivosti je podobny pre vsetky kovy. Suvis el. a tep. vl. kovov je
+charakterizovany Wiedemann-Franzovym zakonom.
+
+68. Bohrov magneton:
+Bohrov magneton je najmensou kvantovou jednotkou magnetickeho momentu.
+
+69. Matthiessenovo pravidlo:
+Vyjadrenie aditivnosti zloziek el. odporu materialov, spojenych s roznymi rozptylovymi procesmi
+(rozptyl vodivostnych elektronov na kmitoch mriezky, na statickych poruchach mriezky, na
+neusporiadanych magn. momentoch). Platnost pravidla je podmienena vzajomnou nezavislostou
+rozptylovych procesov.
+Experiment ukazuje, ze pri malych koncentraciach rozptyl vodivostnych elektronov sposobeny
+primesami takmer nezavisi na teplote. Oproti tomu rozptyl vplyvom tepelnych kmitov na teplote
+samozrejme zavisi. Uvedenu skutocnost vyjadruje tzv. Matthiessenovo pravidlo. Celkovy merny odpor
+kovu ρR s malou koncentraciou primesi je dany suctom teplotne nezavisleho
+prispevku ρR,p vyjadrujuceho rozptyl vodivostnych elektronov na cudzich atomoch a teplotne
+zavisleho prispevku ρR,k(T) charakterizujuceho rozptyl na tepelnych kmitoch mriezky.
+)( ρ R = ρ , pR + ρ ,kR T
+
+70. Ktore magneticke materialy sa stavaju pri Currieho teplote PARAMAGNETIKOM?
+Feromagnetika.
+
+71. Co je magneticka susceptibilita?
+Fyzikalna velicina, ktora opisuje spravanie materialu vo vonkajsom magnet. poli. Podla hodnoty
+magnetickej susceptibility rozlisujeme:
+- diamagnetika - xm<0
+- paramagnetika - 0 < xm < 1
+- feromagnetika - xm > 1
+
+72. Ktora polarizacia je pomala a ma dielektricke straty?
+Relaxacna.
+
+73. Cim je charakteristicka KOVOVA VAZBA?
+Materialy maju dobru tepelnu a elektricku vodivost.
+
+74. Cim sa prejavuje vycerpanie primesi v polovodici?
+Teplota vycerpania primesi Ti
+ je teplota, pri ktorej sa na elektrickej vodivosti okrem vsetkych
+ionizovanych primesi zacinaju podielat aj lokalizovane elektrony a diery, vyskytujuce sa v polovodici.
+Teplota vycerpania primesi je tym vacsia, cim je vacsia sirka zakazaneho pasma a cim vacsia je
+koncentracia primesi ND.
+
+75. Aka velicina je charakteristicka polarizaciou?
+Relativna permitivita.
+
+76. Od 1.2 do 2.5 eV je zakazane pasmo v akych materialoch?
+Polovodice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
